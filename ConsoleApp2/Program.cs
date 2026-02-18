@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class Program
     {
         static  int k = 0;

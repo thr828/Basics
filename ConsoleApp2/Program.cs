@@ -14,7 +14,7 @@ namespace ConsoleApp2
         static  int k = 0;
         static void Main(string[] args)
         {
-            //测试1237899
+            //测试123789911111
             int[] arr = new int[] {100,90,80,70,60, 50,40,30,20,10,10,10 };
             int[] sortArr;
             {

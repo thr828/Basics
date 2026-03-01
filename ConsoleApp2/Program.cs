@@ -41,7 +41,11 @@ namespace ConsoleApp2
         //    Console.WriteLine("total:"+k);
             Console.ReadKey() ;
         }
-
+        /// <summary>
+        /// test
+        /// </summary>
+        /// <param name="arr"></param>
+        /// <returns></returns>
         public static int[] Test(int[] arr)
         {
             int j = 0;

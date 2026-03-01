@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp2
 {
     /// <summary>
-    /// 冒泡排序122
+    /// 冒泡排序12233
     /// </summary>
     class Program
     {
